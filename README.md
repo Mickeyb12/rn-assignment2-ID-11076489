@@ -13,7 +13,7 @@ This is a React Native project created using Expo CLI as part of an assignment. 
 
 ## Screenshot
 
-![App Screenshot](c:\Users\user\Pictures\App imagejpg)
+![App Screenshot](MyApp/App image.jpg)
 
 ## Student ID
 
